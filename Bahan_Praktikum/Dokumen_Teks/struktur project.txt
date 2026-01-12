@@ -1,0 +1,13 @@
+aplikom
+sistem operasi
+windows
+linux
+macos
+office
+word
+document1.docx
+excel
+data_mahasiswa.xlsx
+power point
+pertemuan1.ppt
+internet
